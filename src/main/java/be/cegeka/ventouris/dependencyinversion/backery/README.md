@@ -6,13 +6,14 @@
  
 * Refactor the code so that it confirms to Dependency Inversion
     * Implement interfaces & classes should no longer create objects
-    * Note! You won't be able to do this for every class. Which ones?
-    * Note! Ignore the classes in the extras package for now
+   
     
 * Try to write the test again
     * Did it become easier?
     
 * Introduce Dependency Inversion for the Service, Resource and the Mapper
+    * Note! You won't be able to do this for every class. Which ones?
+    * Note! Ignore the classes in the extras package for now
     
 ## Application configuration
 * Remove the comments from the BackeryMain class
