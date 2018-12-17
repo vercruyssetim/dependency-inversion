@@ -12,6 +12,8 @@
 * Try to write the test again
     * Did it become easier?
     
+* Introduce Dependency Inversion for the Service, Resource and the Mapper
+    
 ## Application configuration
 * Remove the comments from the BackeryMain class
     * What kind of problem do you get?
