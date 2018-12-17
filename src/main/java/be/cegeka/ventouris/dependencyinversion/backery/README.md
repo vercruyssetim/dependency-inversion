@@ -6,10 +6,9 @@
  
 * Refactor the code so that it confirms to Dependency Inversion
     * Implement interfaces & classes should no longer create objects
-   
-    
+       
 * Try to write the test again
-    * Did it become easier?
+    * Is it possible now?
     
 * Introduce Dependency Inversion for the Service, Resource and the Mapper
     * Note! You won't be able to do this for every class. Which ones?
