@@ -15,18 +15,18 @@
     * Note! Ignore the classes in the extras package for now
     
 ## Application configuration
-* Remove the comments from the BackeryMain class
+* Remove the comments from the BakeryMain class
     * What kind of problem do you get?
     * Any idea how to solve this without using Spring (or any other kind of 3th-party framework)?
     
 ## Other configurations    
-You want to sell your application to other kinds backeries: a fancy backery that sells fancy bread and a wholesale backery that gets its bread from a factory
+You want to sell your application to other kinds backeries: a fancy bakery that sells fancy bread and a wholesale bakery that gets its bread from a factory
 
 * The necessary classes are already implemented in the extras package.
     * Change the classes in extras so they fit in the rest of the application
     * Adapt the main class so that 
-        * when you provide 'fancy' as startup argument you get a fancy backery application
-        * when you provide 'wholesale' as startup argument you get a wholesale backery application
+        * when you provide 'fancy' as startup argument you get a fancy bakery application
+        * when you provide 'wholesale' as startup argument you get a wholesale bakery application
         * when you provide 'normal' as startup argument you get the plain old application from the first exercise 
     
 

@@ -2,6 +2,7 @@
 .gradle/
 out/
 gradle/
+*.iml
 
 gradlew
 gradlew.bat
